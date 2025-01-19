@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Graduate student of South China University of Technology.
+Graduate student of South China University of Technology. <br>
 A person who is not involved in stock and futures trading.
