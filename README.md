@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Graduate student of South China University of Technology.
+A person who is not involved in stock and futures trading.
